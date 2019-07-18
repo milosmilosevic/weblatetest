@@ -1,47 +1,5 @@
 {
-  "keys": [
-    "me"
-  ],
-  "o_o_Full name": {
-    "me": "Peter Taylor"
-  },
-  "o_€65": {
-    "me": "€65"
-  },
-  "o_00": {
-    "me": "00"
-  },
-  "o_meeting_date": {
-    "me": "June 29, 2019\nat 10:00 AM CET"
-  },
-  "o_is proposing a video": {
-    "me": "is proposing a video call\nof 60 minutes"
-  },
-  "o_secondary claim 1": {
-    "me": "WE CARE"
-  },
-  "o_secondary claim 2": {
-    "me": "And then we care more"
-  },
-  "o_Choose a language": {
-    "me": "ENGLISH"
-  },
-  "o_CONTACT US": {
-    "me": "CONTACT US"
-  },
-  "o_PRICING": {
-    "me": "PRICING"
-  },
-  "o_ABOUT US": {
-    "me": "ABOUT US"
-  },
-  "o_PROJECTS": {
-    "me": "PROJECTS"
-  },
-  "o_main claim": {
-    "me": "Roads? Where we're going we don't need roads."
-  },
-  "o_Field title": {
-    "me": "Main interest:"
+  'me': {
+     "o_o_Full name": "Peter Taylor"
   }
 }
