@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: WebTranslateIt.com\n"
+
+#: keys
+msgid "keys.[0]"
+msgstr ""
+
+#: o_o_Full name
+msgid "o_o_Full name.me"
+msgstr ""
+
+#: o_€65
+msgid "o_€65.me"
+msgstr ""
+
+#: o_00
+msgid "o_00.me"
+msgstr ""
+
+#: o_meeting_date
+msgid "o_meeting_date.me"
+msgstr ""
+
+#: o_is proposing a video
+msgid "o_is proposing a video.me"
+msgstr ""
+
+#: o_secondary claim 1
+msgid "o_secondary claim 1.me"
+msgstr ""
+
+#: o_secondary claim 2
+msgid "o_secondary claim 2.me"
+msgstr ""
+
+#: o_Choose a language
+msgid "o_Choose a language.me"
+msgstr ""
+
+#: o_CONTACT US
+msgid "o_CONTACT US.me"
+msgstr ""
+
+#: o_PRICING
+msgid "o_PRICING.me"
+msgstr ""
+
+#: o_ABOUT US
+msgid "o_ABOUT US.me"
+msgstr ""
+
+#: o_PROJECTS
+msgid "o_PROJECTS.me"
+msgstr ""
+
+#: o_main claim
+msgid "o_main claim.me"
+msgstr ""
+
+#: o_Field title
+msgid "o_Field title.me"
+msgstr ""
